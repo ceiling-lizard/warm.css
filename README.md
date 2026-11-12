@@ -14,7 +14,7 @@ Link either the Georgia or Gelasio version in your `<head>`:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ceiling-lizard/warm.css@main/gelasio.css">
 ```
 
-Styling Verses
+## Styling Verses
 
 Use the included classes to format recited lines and active highlights:
 
@@ -25,12 +25,12 @@ Use the included classes to format recited lines and active highlights:
 </div>
 ```
 
-· .verse: Standard block for lines or verses.
-· data-current: Highlights the active verse.
-· .translation: Smaller, subordinate text for translations.
-· .translit: Italicized text for transliterations.
-· .verse-num: Small, superscripted verse numbers.
+- .verse: Standard block for lines or verses.
+- data-current: Highlights the active verse.
+- .translation: Smaller, subordinate text for translations.
+- .translit: Italicized text for transliterations.
+- .verse-num: Small, superscripted verse numbers.
 
-Dark Mode
+## Dark Mode
 
 Automatically switches to a warm near-black (#16150F) and dimmed cream text when the device prefers a dark color scheme.
